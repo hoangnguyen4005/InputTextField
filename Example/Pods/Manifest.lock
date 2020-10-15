@@ -1,0 +1,16 @@
+PODS:
+  - InputTextField (0.0.1)
+
+DEPENDENCIES:
+  - InputTextField (from `../`)
+
+EXTERNAL SOURCES:
+  InputTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InputTextField: 23feb4b768b4295d0d025dfd76aff8244e6974ff
+
+PODFILE CHECKSUM: 45a85df09080dd1a07f4ebfab75cb94b8ddd4c06
+
+COCOAPODS: 1.9.3
