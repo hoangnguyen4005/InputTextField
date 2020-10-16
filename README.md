@@ -1,7 +1,7 @@
 # InputTextField
-  - InputTextField is component, which was built base on UITextFiled. It will show animation when users typing.
+  - InputTextField is acomponent, which was built base on UITextFiled. It will show animation when users typing.
   - InputTextField allow user custome itselft by proving public api.
-  - Public api for you receive event as begin, end of typing.
+  - Public apis allow you receive and handle events as begin, end of typing.
   
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 09 56 03](https://user-images.githubusercontent.com/15699560/96067737-fe730480-0ecc-11eb-803a-32858e9d2abc.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 09 56 11](https://user-images.githubusercontent.com/15699560/96067740-003cc800-0ecd-11eb-90e2-4894321dec79.png)
