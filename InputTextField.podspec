@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'InputTextField'
   s.version          = '0.0.1'
   s.summary          = 'InputTextField is design library pod'
-  s.description      = "  - InputTextField show animation when user typing."
+  s.description      = "InputTextField is a component, which was built base on UITextFiled. It will show animation when users typing"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
